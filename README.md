@@ -1,18 +1,115 @@
+
 <h1 align="center">Hi 👋, I'm Samina K</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Software Developer | Java | Spring Boot | Python | PostgreSQL</h3>
 
-- 🔭 I’m currently working on **e-commerce using python Django by integrating bootstrap**
-
-- 🌱 I’m currently learning **Django**
-
-- 📫 How to reach me **saminaniyas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samina niyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samina niyas" height="30" width="40" /></a>
+<p align="center">
+  Software Developer with 1 year and 8 months of experience
+  in enterprise application development, specializing in
+  backend development, REST APIs, and database optimization.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saminaksamad&show_icons=true&locale=en&layout=compact" alt="saminaksamad" /></p>
+### 👩‍💻 About Me
+
+- 💼 Previously worked as an **Application Developer at Kiebot Learning Solutions (Mar 2025 – Nov 2026)**
+- 💻 Experienced in **Java 17, Spring Boot, JPA, Hibernate, and PostgreSQL**
+- 🏢 Worked on **Jewellery Accounting, POS, and Manufacturing ERP Applications**
+- ⚙️ Experienced in developing **REST APIs, complex business logic, and SQL query optimization**
+- 📊 Implemented **asynchronous Excel uploads, exports, reporting APIs, and inventory management features**
+- 🐍 Skilled in **Python, Flask, and Django**
+- 🧪 Experience with **Playwright, Pytest, Postman, and API Testing**
+- 🌐 Working knowledge of **ReactJS, JavaScript, and Node.js**
+- 🌱 Continuously improving my skills in **backend development and software engineering**
+- 📫 Reach me at **saminaniyas@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,nodejs" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+</p>
+
+**Testing and Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+**Additional Technologies**
+
+- JPA / Hibernate
+- Spring Data JPA
+- RESTful APIs
+- SQL / Query Optimization
+- Liquibase
+- Playwright / Pytest
+- Git / GitHub
+
+---
+
+### 🚀 Professional Experience
+
+**Application Developer | Kiebot Learning Solutions**
+
+*March 2025 – November 2026*
+
+- Developed and maintained backend services for jewellery accounting and manufacturing ERP applications.
+- Built REST APIs using Java, Spring Boot, and PostgreSQL.
+- Implemented customer management, inventory, manufacturing, and reporting modules.
+- Developed asynchronous Excel upload and export functionality for large customer datasets.
+- Optimized complex SQL queries for reporting and stock management.
+- Worked with JPA, Hibernate, Liquibase, and relational database design.
+- Gained experience in automated testing using Playwright and Pytest.
+
+---
+
+### 📌 Areas of Expertise
+
+- Backend Application Development
+- REST API Design and Development
+- Enterprise ERP Applications
+- Database Design and SQL Optimization
+- Asynchronous and Batch Processing
+- Business Logic Implementation
+- API Testing and Test Automation
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saminaksamad&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminaksamad&layout=compact&theme=default" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/samina-niyas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saminaniyas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
